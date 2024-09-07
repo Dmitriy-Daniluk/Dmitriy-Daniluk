@@ -1,4 +1,6 @@
-## Hi there 👋
+<span style="font-size=24px; font-family: sans-serif;">Всем привет! Меня зовут Дмитрий и обучаюсь писать программы на разных языках программирования.</span>
+
+Мне 18 лет и я работаю <strong>разработчиком сайтов</strong> под <i>ключ</i>
 
 <!--
 **Dmitriy-Daniluk/Dmitriy-Daniluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
